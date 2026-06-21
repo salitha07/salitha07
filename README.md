@@ -1,16 +1,121 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**salitha07/salitha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║        > Hello, World! I'm Salitha                           ║
+║        > Full-Stack Developer & CS Student                   ║
+║        > Building things that actually work.                 ║
+║                                                              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%2B+Spring+Boot+Enthusiast;Software+Engineering+Student;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## `$ whoami`
+
+```bash
+{
+  "name"       : "Salitha",
+  "role"       : "Full-Stack Developer",
+  "university" : "NSBM Green University",
+  "degree"     : "BSc (Hons) Software Engineering",
+  "interests"  : ["Web Development", "Cybersecurity", "Linux", "Clean Architecture"],
+  "status"     : "🟢 Open to collaborate"
+}
+```
+
+---
+
+## `$ ls ./tech-stack`
+
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🛢 Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## `$ cat ./projects`
+
+### 🔍 Security Scanner Web App
+```
+> Stack   : React + Spring Boot + Tailwind CSS
+> Status  : 🚧 In Development
+> About   : A full-stack web application for scanning and
+            tracking security vulnerabilities, with scan
+            history, result visualization, and user reporting.
+```
+
+### 🎓 Builder Design Pattern Implementation
+```
+> Stack   : Java / C#
+> Status  : ✅ Complete
+> About   : Implemented the Builder Design Pattern with
+            Director + Concrete Builders as part of coursework
+            at NSBM Green University.
+```
+
+### 📅 University Exam Timetable Generator
+```
+> Stack   : Python (ReportLab)
+> Status  : ✅ Complete
+> About   : Auto-generates a professional styled PDF exam
+            timetable for NSBM Green University.
+```
+
+---
+
+## `$ cat ./github-stats`
+
+<div align="center">
+
+![Salitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+</div>
+
+---
+
+## `$ ping ./connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ System uptime: always learning ]  [ Last commit: today ]  [ Bugs fixed: countless ]
+```
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+
+</div>
