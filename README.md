@@ -1,16 +1,14 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        > Hello, World! I'm Salitha                           ║
-║        > Full-Stack Developer & CS Student                   ║
-║        > Building things that actually work.                 ║
-║                                                              ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║  > Salitha                                   ║
+║  > Full-Stack Developer                      ║
+║  > BSc (Hons) Software Engineering @ NSBM    ║
+╚══════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%2B+Spring+Boot+Enthusiast;Software+Engineering+Student;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%2B+Spring+Boot;Always+building%2C+always+learning...)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,13 +16,13 @@
 
 ## `$ whoami`
 
-```bash
+```json
 {
   "name"       : "Salitha",
   "role"       : "Full-Stack Developer",
   "university" : "NSBM Green University",
   "degree"     : "BSc (Hons) Software Engineering",
-  "interests"  : ["Web Development", "Cybersecurity", "Linux", "Clean Architecture"],
+  "interests"  : ["Web Dev", "Cybersecurity", "Linux", "Clean Code"],
   "status"     : "🟢 Open to collaborate"
 }
 ```
@@ -33,54 +31,22 @@
 
 ## `$ ls ./tech-stack`
 
-### ⚡ Frontend
+**Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Backend
+**Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🛢 Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**Tools & OS**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## `$ cat ./projects`
-
-### 🔍 Security Scanner Web App
-```
-> Stack   : React + Spring Boot + Tailwind CSS
-> Status  : 🚧 In Development
-> About   : A full-stack web application for scanning and
-            tracking security vulnerabilities, with scan
-            history, result visualization, and user reporting.
-```
-
-### 🎓 Builder Design Pattern Implementation
-```
-> Stack   : Java / C#
-> Status  : ✅ Complete
-> About   : Implemented the Builder Design Pattern with
-            Director + Concrete Builders as part of coursework
-            at NSBM Green University.
-```
-
-### 📅 University Exam Timetable Generator
-```
-> Stack   : Python (ReportLab)
-> Status  : ✅ Complete
-> About   : Auto-generates a professional styled PDF exam
-            timetable for NSBM Green University.
-```
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -113,7 +79,7 @@
 <div align="center">
 
 ```
-[ System uptime: always learning ]  [ Last commit: today ]  [ Bugs fixed: countless ]
+[ Always learning ]  [ Let the commits speak ]  [ Sri Lanka 🇱🇰 ]
 ```
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
